@@ -1,0 +1,22 @@
+body{
+
+}
+.jumbotron:hover{
+	background-color: yellow;
+}
+.btn:hover{
+	background:blue;
+}
+
+.fbox{
+	text-align: center;
+}
+.fbox span{
+	font-size: 60px;
+	color:blue;
+	
+}
+a:hover span{
+	font-size: 90px;
+	color:red;
+}
